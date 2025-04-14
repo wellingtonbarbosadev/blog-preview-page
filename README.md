@@ -1,0 +1,1 @@
+Project for https://www.frontendmentor.io challenge
